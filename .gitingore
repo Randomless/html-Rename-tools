@@ -1,0 +1,4 @@
+/vscode
+*.log
+*.temp
+*.save_data.pkl
